@@ -1,4 +1,4 @@
-a = read.csv("betterave/Noms.marqueurs.LFMM.gINLAnd.csv",h=T,sep=";")
+a = read.csv("data/Noms.marqueurs.LFMM.gINLAnd.csv",h=T,sep=";")
 
 lffm = a[which(a$LFMM==1),]
 gin = a[which(a$gINLAnd==1),]
