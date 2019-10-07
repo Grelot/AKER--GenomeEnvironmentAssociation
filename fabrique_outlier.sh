@@ -1,7 +1,7 @@
 ##script R
-fabrique_outlier.R
+Rscript fabrique_outlier.R
 ##script bash
-mkdir mes_outliers
+#mkdir mes_outliers
 COUNTER=1
 for monvcf in `ls mes_vcf_save/chr[1-9].vcf`;
 do
