@@ -1,4 +1,4 @@
-mkdir tables/avec_id
+#mkdir tables/avec_id
 #Get IA des SNP
 COUNTER=1
 for vcfFichier in `ls mes_vcf/chr*.vcf.gz`
