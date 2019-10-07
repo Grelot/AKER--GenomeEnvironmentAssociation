@@ -21,12 +21,12 @@ _______________________________________________________________________________
 # Prerequisite
 You must install the following softwares :
 
-* [VCFTOOLS]([http://vcftools.sourceforge.net/)
+* [VCFTOOLS](http://vcftools.sourceforge.net/)
 * [TABIX & BGZIP](https://github.com/samtools/htslib/releases/tag/1.4.1)
 * [R Version 3.2.3](https://cran.r-project.org/)
   * `R-package` ggplot2
   * `R-package` PopGenome
-* [Python 2.7.12]([https://www.python.org/)
+* [Python 2.7.12](https://www.python.org/)
 
 # Data Files
 The included data files are :
