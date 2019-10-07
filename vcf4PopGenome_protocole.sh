@@ -25,6 +25,5 @@ done
 cd ..
 
 ##STEP3 lire les VCFs dans R PopGenome
-
-lire_vcf_PopGenome.R
+#lire_vcf_PopGenome.R
 
