@@ -99,10 +99,16 @@ Rscript analysis_tables.R
 
 # Results
 
+## Beets genome chromosome 1 sequence: SNPs-metrics and significantly associated with aridity SNPs positions
+
 ![chr1 metrics](figures/chr1_stats.png)
 
 
-* **SNP density**: number of SNPs by 20 Kbp sliding windows onto genome
-* **\pi**: nucleotide diversity
-* **D**: Tajima D
-* **D\***: Fu and Li D
+
+Every 5 Kbp nucleotide steps, we calculated following metrics on a 20Kbp windows onto the genome :
+  * **SNP density**: number of SNPs 
+  * **pi** : nucleotide diversity
+  * **D**: Tajima D
+  * **D\***: Fu and Li D
+
+Positions of genetic markers SNP significantly associated with aridity environmental variable are indicated by a black dot
