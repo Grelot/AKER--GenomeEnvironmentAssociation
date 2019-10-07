@@ -100,3 +100,9 @@ Rscript analysis_tables.R
 # Results
 
 ![chr1 metrics](figures/chr1_stats.png)
+
+
+* **SNP density**: number of SNPs by 20 Kbp sliding windows onto genome
+* **$\pi$**: nucleotide diversity
+* **D**: Tajima D
+* **D\***: Fu and Li D
