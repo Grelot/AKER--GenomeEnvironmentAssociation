@@ -103,6 +103,6 @@ Rscript analysis_tables.R
 
 
 * **SNP density**: number of SNPs by 20 Kbp sliding windows onto genome
-* **$\pi$**: nucleotide diversity
+* <br> $\pi$ </br>: nucleotide diversity
 * **D**: Tajima D
 * **D\***: Fu and Li D
