@@ -13,7 +13,7 @@ These metrics were necessary to validate our approach to predict the environment
 
 We applied this approach to predict aridity in a database constituted of 950 individuals of wild beets and 299 individuals of cultivated beets genotyped at 14,409 random single nucleotide polymorphisms (SNPs).
 
-This study was funded by the French Government, under the management of the Research National Agency (ANR‐11‐BTBR‐0007) through the [AKER programme](http://www.aker-betterave.fr/)
+This study was funded by the French Government, under the management of the Research National Agency (ANR‐11‐BTBR‐0007) through the [AKER programme](http://www.aker-betterave.fr) in collaboration with [Florimond Desprez company](http://www.florimond-desprez.com).
 
 _______________________________________________________________________________
 
