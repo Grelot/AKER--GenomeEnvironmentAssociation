@@ -99,5 +99,4 @@ Rscript analysis_tables.R
 
 # Results
 
-
-
+![chr1 pdf](https://github.com/Grelot/aker--GenomeEnvironmentAssociation/blob/master/figures/chr1_stats.pdf)
