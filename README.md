@@ -44,7 +44,7 @@ scripts used to calculate statistics on the genome from SNP data
 ## BASH scripts
 * [vcf4PopGenome_protocole.sh](vcf4PopGenome_protocole.sh) : Creates VCF.GZ files using TABIX, BGZIP and VCFTOOLS for each chromosome into [mes_vcf/](mes_vcf). Uncompressed VCF files will be saved into a new [mes_vcf_save/](mes_vcf_save).
 * [fabrique_outlier.sh](fabrique_outlier.sh): Generates a list of outliers SNPs positions for each chromosome into [mes_outliers/](mes_outliers).
-* `add_ID_to_tables.sh` : Creates tables with ID of SNPs into *tables/avec_id* folder from *tables/* results.
+* [add_ID_to_tables.sh](add_ID_to_tables.sh) : Creates tables with ID of SNPs into [tables/avec_id](tables/avec_id) folder from [tables/](tables) results.
 
 ## Python scripts
 * [get_col.py](get_col.py): Select columns of a CSV file according to a list of colunm's names.
